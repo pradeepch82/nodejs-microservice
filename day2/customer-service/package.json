@@ -1,0 +1,22 @@
+{
+  "name": "customer-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "eureka-js-client": "^4.5.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "opossum": "^6.2.1",
+    "roi": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
